@@ -1,0 +1,11 @@
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\Checker Board (with Windows Form)\bin\Debug\Checker Board (with Windows Form).exe.config
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\Checker Board (with Windows Form)\bin\Debug\Checker Board (with Windows Form).exe
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\Checker Board (with Windows Form)\bin\Debug\Checker Board (with Windows Form).pdb
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\Checker Board (with Windows Form)\obj\Debug\Checker Board (with Windows Form).csproj.AssemblyReference.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\Checker Board (with Windows Form)\obj\Debug\Checker Board (with Windows Form).csproj.SuggestedBindingRedirects.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\Checker Board (with Windows Form)\obj\Debug\Checker_Board__with_Windows_Form_.Form1.resources
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\Checker Board (with Windows Form)\obj\Debug\Checker_Board__with_Windows_Form_.Properties.Resources.resources
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\Checker Board (with Windows Form)\obj\Debug\Checker Board (with Windows Form).csproj.GenerateResource.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\Checker Board (with Windows Form)\obj\Debug\Checker Board (with Windows Form).csproj.CoreCompileInputs.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\Checker Board (with Windows Form)\obj\Debug\Checker Board (with Windows Form).exe
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\Checker Board (with Windows Form)\obj\Debug\Checker Board (with Windows Form).pdb
